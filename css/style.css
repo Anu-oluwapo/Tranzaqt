@@ -239,6 +239,14 @@ q {
 
   padding: 10px 0;
 }
+.author2 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 0.5rem;
+  color: #7b8794;
+}
 
 .position {
   font-family: "DM Sans";
@@ -265,6 +273,48 @@ q {
   width: 59rem;
 }
 
+.features2-section {
+  margin: 5rem 0;
+}
+
+.card {
+  background: rgba(216, 217, 246, 0.3);
+  border: none;
+  width: 54rem;
+}
+
+.card .card-body .sectionTag {
+  margin: 1rem 0;
+}
+
+.card-text {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.4rem;
+  line-height: 3.2rem;
+  /* or 133% */
+
+  letter-spacing: -0.01em;
+
+  color: #1f2933;
+}
+
+.user {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  align-items: center;
+  letter-spacing: -0.01em;
+
+  color: #1f2933;
+}
+
+.user-info {
+  margin-bottom: 3rem;
+}
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 1243px) {
   html {
