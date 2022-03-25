@@ -327,10 +327,10 @@ q {
 }
 
 @media (max-width: 768px) {
-  /* .hero-img {
+  .hero-img {
     display: none;
   }
-*/
+
   li {
     margin: 1rem 0;
   }
