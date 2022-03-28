@@ -280,7 +280,7 @@ q {
 .card {
   background: rgba(216, 217, 246, 0.3);
   border: none;
-  width: 54rem;
+  /* width: 54rem; */
 }
 
 .card .card-body .sectionTag {
@@ -314,6 +314,23 @@ q {
 
 .user-info {
   margin-bottom: 3rem;
+  margin-left: 3rem;
+}
+
+.user-info-2 {
+  padding-top: 2rem;
+  padding-bottom: 3.5rem;
+}
+
+/* .card2-img {
+  width: 19.7rem;
+}
+.card-img {
+  width: 50.8rem;
+} */
+
+.card-text {
+  margin-left: 2rem;
 }
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 1243px) {
