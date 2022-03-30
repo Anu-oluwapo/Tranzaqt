@@ -322,6 +322,69 @@ q {
   padding-bottom: 3.5rem;
 }
 
+.jumbotron {
+  background: rgba(216, 217, 246, 0.3);
+  padding: 8.8rem 0;
+}
+
+footer {
+  background: #3b42d0;
+}
+
+.footer-nav-link {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 2.1rem;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 0 3rem;
+}
+
+.dropdown-toggle {
+  background: rgba(216, 217, 246, 0.2);
+  color: #ffffff;
+  border: none;
+}
+.dropdown-toggle:hover {
+  background: rgba(154, 157, 255, 0.2);
+  color: #ffffff;
+  border: none;
+}
+.dropdown-toggle:focus {
+  background: rgba(154, 157, 255, 0.2);
+  color: #ffffff;
+  border: none;
+}
+
+.hr2 {
+  height: 0.2rem;
+  background-color: #ffffff;
+  border-radius: 100px;
+}
+
+.footer-links li {
+  margin: 0;
+  padding: 2rem 0;
+  cursor: pointer;
+}
+
+.footer-links li a {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-size: 1.8rem;
+  line-height: 3rem;
+  font-weight: 500;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 /* .card2-img {
   width: 19.7rem;
 }
