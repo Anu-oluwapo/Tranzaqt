@@ -421,6 +421,11 @@ footer {
 }
 
 /* Small devices (tablets, 768px and up) */
+@media (max-width: 1510px) {
+  .hero-img {
+    width: 58.3rem;
+  }
+}
 @media (max-width: 1400px) {
   html {
     font-size: 50%;
