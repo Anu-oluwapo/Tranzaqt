@@ -454,6 +454,11 @@ footer {
   li {
     margin: 1rem 0;
   }
+
+  .footer-nav-link {
+    padding: 0 1rem;
+  }
+
 }
 
 /* Large devices (large desktops, 1200px and up)
